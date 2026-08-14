@@ -1,1 +1,3 @@
 - [CHANGELOG_v35.md](CHANGELOG_v35.md) — v35 完整更新日志
+- [CHANGELOG_v37.5.1.md](CHANGELOG_v37.5.1.md) — v37.5.1 修复日志（坏 JSON / FAQ 口径 / BOM 清理）
+- [CHANGELOG_v37.6.md](CHANGELOG_v37.6.md) — v37.6 优化日志（双库合并 847 条 + assistant.html 动态加载 + \bullet 修复）

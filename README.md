@@ -2,7 +2,7 @@
 
 [![Deploy](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen)](https://littlealety.github.io/chemai-8.6-/)
 [![Version](https://img.shields.io/badge/version-v37-blue)](https://github.com/LittleAlety/chemai-8.6-)
-[![FAQ](https://img.shields.io/badge/FAQ-750条-green)](https://github.com/LittleAlety/chemai-8.6-)
+[![FAQ](https://img.shields.io/badge/FAQ-847条-green)](https://github.com/LittleAlety/chemai-8.6-)
 [![Corpus](https://img.shields.io/badge/语料库-291篇-orange)](https://github.com/LittleAlety/chemai-8.6-)
 [![Deep Qs](https://img.shields.io/badge/深度实验问题-~100条-purple)](https://github.com/LittleAlety/chemai-8.6-)
 
@@ -15,7 +15,7 @@
 | 页面 | 文件 | 说明 |
 |------|------|------|
 | **首页入口** | `index.html` | React SPA 首页，身份选择（非化学专业 / 化学专业 / 教师），含 LLM 配置面板 |
-| **AI 助手** | `assistant.html` | 多策略检索 + 类比推理引擎 + DeepSeek RAG 问答；**~100 条深度实验操作问答（v36-v37 新增）**；12 知识点掌握度自适应测评（苏格拉底式引导对话），三维度雷达图 + 掌握度分布直方图 + 综合评语 + 学习建议，支持导出 Word/TXT；**12 条 selfCheck 自动验证规则** |
+| **AI 助手** | `assistant.html` | 多策略检索 + 类比推理引擎 + DeepSeek RAG 问答；**~100 条深度实验操作问答（v36-v37 新增）**；10 知识点掌握度自适应测评（苏格拉底式引导对话），三维度雷达图 + 掌握度分布直方图 + 综合评语 + 学习建议，支持导出 Word/TXT；**12 条 selfCheck 自动验证规则** |
 | **实验手册** | `main.html` | 11 章全文浏览器，LaTeX 公式 Unicode 渲染，响应式布局 |
 | **知识图谱** | `knowledge.html` | 97 节点 / 136 关联的 Canvas 交互式配位化学知识网络 |
 | **语料库** | `corpus.html` | 291 篇中英文文献知识清单，PDF/PPTX/DOCX 上传解析，子领域分布条形图**（可点击筛选）**，学习迭代报告 |
@@ -98,7 +98,7 @@ chemai-8.6-/
 ├── prep.html                    # 课前预习
 │
 ├── data/
-│   ├── faq_unified.json         # FAQ 知识库（700+ 条，17 分类）
+│   ├── faq_unified.json         # FAQ 知识库（847 条，17 分类，单一真相源）
 │   ├── manual.json              # 实验手册（11 章）
 │   ├── corpus.json              # 语料库清单（291 篇文献）
 │   ├── kg.json                  # 知识图谱（97 节点 / 136 关联）

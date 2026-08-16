@@ -1,10 +1,10 @@
 # ChemAI — 三草酸合铁(III)酸钾制备实验 智能教学平台
 
-[![Deploy](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen)](https://littlealety.github.io/chemai-8.6-/)
-[![Version](https://img.shields.io/badge/version-v37-blue)](https://github.com/LittleAlety/chemai-8.6-)
-[![FAQ](https://img.shields.io/badge/FAQ-847条-green)](https://github.com/LittleAlety/chemai-8.6-)
-[![Corpus](https://img.shields.io/badge/语料库-291篇-orange)](https://github.com/LittleAlety/chemai-8.6-)
-[![Deep Qs](https://img.shields.io/badge/深度实验问题-~100条-purple)](https://github.com/LittleAlety/chemai-8.6-)
+[![Deploy](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen)](https://emblulol.github.io/emblulol-chem-v30/)
+[![Version](https://img.shields.io/badge/version-v37.6-blue)](https://github.com/emblulol/emblulol-chem-v30)
+[![FAQ](https://img.shields.io/badge/FAQ-847条-green)](https://github.com/emblulol/emblulol-chem-v30)
+[![Corpus](https://img.shields.io/badge/语料库-291篇-orange)](https://github.com/emblulol/emblulol-chem-v30)
+[![Deep Qs](https://img.shields.io/badge/深度实验问题-~100条-purple)](https://github.com/emblulol/emblulol-chem-v30)
 
 **ChemAI** 是一个面向大学化学实验教学的 AI 智能平台，以 **三草酸合铁(III)酸钾 K₃[Fe(C₂O₄)₃]·3H₂O** 的制备实验为核心，集成 LLM-RAG 智能问答、知识图谱可视化、语料库文献检索、掌握度自适应测评、实验报告多维评估、**深度操作问答自学习迭代**等功能。
 
@@ -122,7 +122,7 @@ chemai-8.6-/
 ## 快速开始
 
 ```bash
-cd chemai-8.6-
+cd emblulol-chem-v30
 python -m http.server 8080           # Python
 # 或
 npx serve .                          # Node.js
@@ -166,6 +166,8 @@ GitHub Actions + GitHub Pages 自动部署。向 `master` 分支推送后自动�
 
 | 版本 | 主要变更 |
 |------|------|
+| **v37.6** | 双 FAQ 库合并为单一真相源（847 条）、assistant.html 动态加载（900KB→148KB）、76 张实验图片接入手册正文 + 助手带图回答、章节 ID 修正（ch12→ch11） |
+| **v37.6.x** | 图片迁移 assets/images/ 并压缩（16MB→4.6MB）、去重命名统一、化学式斜体改正体、日间模式、图注底部对齐 |
 | **v37.5** | 自学习循环：30 道新题生成 + 对抗评分代理（23/30 正确，+23 分），6 个系统性错误修正，3 条修正 FAQ 插入 |
 | **v37** | 50 条全新自检深度 FAQ（浓度梯度、扩散动力学、缓冲化学、界面现象、热历史），每条含 Manual 章节交叉引用自检 |
 | **v36.5** | ~40 条深度操作 FAQ 追加（步骤顺序错误、操作变异、安全/废液、数据处理），selfCheck 从 9→12 条规则 |

@@ -2,3 +2,4 @@
 - [CHANGELOG_v37.5.1.md](CHANGELOG_v37.5.1.md) — v37.5.1 修复日志（坏 JSON / FAQ 口径 / BOM 清理）
 - [CHANGELOG_v37.6.md](CHANGELOG_v37.6.md) — v37.6 优化日志（双库合并 847 条 + assistant.html 动态加载 + \bullet 修复）
 - [CHANGELOG_v37.6.3.md](CHANGELOG_v37.6.3.md) — v37.6.3 更新日志（图片去重命名统一 + 图注底部对齐 + 日间模式表格修复）
+- [CHANGELOG_v37.6.4.md](CHANGELOG_v37.6.4.md) — v37.6.4 更新日志（仓库地址/章节ID一致性修复 + ch12残留清理）

@@ -41,21 +41,6 @@
   ]
  },
  {
-  "sec": "ch2-s2",
-  "file": "assets/images/配合物的TG和DTA分析曲线2.png",
-  "caption": "产物热重(TG)/差热(DTA)分析曲线（2）",
-  "kw": [
-   "热分析",
-   "TG",
-   "DTA",
-   "热重",
-   "差热",
-   "稳定性",
-   "分解",
-   "失重"
-  ]
- },
- {
   "sec": "ch2-s3",
   "file": "assets/images/三草酸合铁酸钾结构.png",
   "caption": "三草酸合铁(III)酸钾配离子结构",
@@ -135,7 +120,7 @@
  },
  {
   "sec": "ch3-s4",
-  "file": "assets/images/加草酸钾后浊液1.png",
+  "file": "assets/images/加草酸钾后浊液.png",
   "caption": "加入草酸钾后形成的浑浊液",
   "kw": [
    "草酸钾",
@@ -203,7 +188,7 @@
  },
  {
   "sec": "ch3-s5",
-  "file": "assets/images/结晶装置示意图1.png",
+  "file": "assets/images/结晶装置示意图.png",
   "caption": "结晶装置示意",
   "kw": [
    "结晶",
@@ -315,19 +300,8 @@
  },
  {
   "sec": "ch4-s1",
-  "file": "assets/images/实验步骤1.png",
+  "file": "assets/images/实验步骤.png",
   "caption": "实验操作流程步骤（1）",
-  "kw": [
-   "实验步骤",
-   "流程",
-   "操作",
-   "步骤"
-  ]
- },
- {
-  "sec": "ch4-s1",
-  "file": "assets/images/实验步骤2.png",
-  "caption": "实验操作流程步骤（2）",
   "kw": [
    "实验步骤",
    "流程",
@@ -1416,7 +1390,7 @@
  },
  {
   "sec": "ch10-s1",
-  "file": "assets/images/层析柱1.png",
+  "file": "assets/images/层析柱.png",
   "caption": "层析柱装置",
   "kw": [
    "二草酸合铜",

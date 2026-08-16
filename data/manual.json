@@ -25,7 +25,8 @@
           "formulas": [
             "K_3[Fe(C_2O_4)_3] cdot 3H_2O",
             "[Co(NH_3)_6]Cl_3"
-          ]
+          ],
+          "images": []
         },
         {
           "id": "ch1-s2",
@@ -46,7 +47,8 @@
           "formulas": [
             "CoCl_3",
             "Co(NH_3)_6Cl_3"
-          ]
+          ],
+          "images": []
         },
         {
           "id": "ch1-s3",
@@ -65,7 +67,8 @@
           ],
           "formulas": [
             "K_3[Fe(C_2O_4)_3] cdot 3H_2O"
-          ]
+          ],
+          "images": []
         }
       ],
       "quizzes": [
@@ -271,10 +274,6 @@
             {
               "file": "配合物的TG和DTA分析曲线.png",
               "caption": "产物热重(TG)/差热(DTA)分析曲线（1）"
-            },
-            {
-              "file": "配合物的TG和DTA分析曲线2.png",
-              "caption": "产物热重(TG)/差热(DTA)分析曲线（2）"
             }
           ]
         },
@@ -329,7 +328,8 @@
             "\\Delta G° = -RT \\ln K_f°",
             "\\Delta G° = -115.2 \\text{ kJ/mol}",
             "\\beta_3 = K_1 \\times K_2 \\times K_3 = 1.6 \\times 10^{20}"
-          ]
+          ],
+          "images": []
         }
       ],
       "quizzes": [
@@ -498,7 +498,8 @@
             "2Fe^{3+} + C_2O_4^{2-} \\rightarrow 2Fe^{2+} + 2CO_2 \\uparrow",
             "E°_{cell} = 1.261 \\text{ V}",
             "E°(Fe^{3+}/Fe^{2+}) = +0.771 \\text{ V}"
-          ]
+          ],
+          "images": []
         },
         {
           "id": "ch3-s2",
@@ -594,7 +595,7 @@
           ],
           "images": [
             {
-              "file": "加草酸钾后浊液1.png",
+              "file": "加草酸钾后浊液.png",
               "caption": "加入草酸钾后形成的浑浊液"
             },
             {
@@ -640,7 +641,7 @@
               "caption": "抽滤后收集的滤液"
             },
             {
-              "file": "结晶装置示意图1.png",
+              "file": "结晶装置示意图.png",
               "caption": "结晶装置示意"
             },
             {
@@ -878,12 +879,9 @@
           ],
           "images": [
             {
-              "file": "实验步骤1.png",
-              "caption": "实验操作流程步骤（1）"
-            },
-            {
-              "file": "实验步骤2.png",
-              "caption": "实验操作流程步骤（2）"
+              "file": "实验步骤.png",
+              "caption": "实验操作流程步骤（1）",
+              "big": true
             }
           ]
         },
@@ -903,7 +901,8 @@
             "结晶",
             "烘干"
           ],
-          "formulas": []
+          "formulas": [],
+          "images": []
         },
         {
           "id": "ch4-s3",
@@ -921,7 +920,8 @@
             "暴沸",
             " troubleshooting"
           ],
-          "formulas": []
+          "formulas": [],
+          "images": []
         },
         {
           "id": "ch4-s4",
@@ -943,7 +943,8 @@
             "n_{摩尔盐} = \\frac{5.0}{392.14} = 0.01275 \\text{ mol}",
             "m_{理论} = 0.01275 \\times 491.25 = 6.26 \\text{ g}",
             "\\text{产率} = \\frac{m_{实际}}{6.26} \\times 100\\%"
-          ]
+          ],
+          "images": []
         }
       ],
       "quizzes": [
@@ -1325,7 +1326,8 @@
             "Fe^{3+} + 3C_2O_4^{2-} \\rightleftharpoons [Fe(C_2O_4)_3]^{3-}",
             "H_2C_2O_4 \\rightleftharpoons H^+ + HC_2O_4^- \\quad pK_{a1} = 1.25",
             "SCN^- < F^- < C_2O_4^{2-} < CN^-"
-          ]
+          ],
+          "images": []
         },
         {
           "id": "ch5-s3",
@@ -1347,7 +1349,8 @@
             "SCN^- < F^- < C_2O_4^{2-} < CN^-",
             "[Fe(C_2O_4)_3]^{3-} + 3SCN^- \\rightleftharpoons Fe(SCN)_3 + 3C_2O_4^{2-}",
             "[FeF_6]^{3-} + 3C_2O_4^{2-} \\rightarrow [Fe(C_2O_4)_3]^{3-} + 6F^-"
-          ]
+          ],
+          "images": []
         },
         {
           "id": "ch5-s4",
@@ -1574,7 +1577,8 @@
             "2[Fe(C_2O_4)_3]^{3-} \\xrightarrow{h\\nu} 2FeC_2O_4 + 3C_2O_4^{2-} + 2CO_2 \\uparrow",
             "Fe^{3+} + C_2O_4^{2-} \\xrightarrow{h\\nu} Fe^{2+} + C_2O_4^{\\bullet-}",
             "C_2O_4^{\\bullet-} \\rightarrow CO_2 + CO_2^{\\bullet-}"
-          ]
+          ],
+          "images": []
         },
         {
           "id": "ch6-s2",
@@ -1647,7 +1651,8 @@
           "formulas": [
             "\\Phi = \\frac{\\text{反应分子数}}{\\text{吸收光子数}}",
             "C_2O_4^{\\bullet-} + O_2 \\rightarrow 2CO_2 + O_2^{\\bullet-}"
-          ]
+          ],
+          "images": []
         }
       ],
       "quizzes": [
@@ -1806,7 +1811,8 @@
             "d_{yz}",
             "e_g",
             "t_{2g}"
-          ]
+          ],
+          "images": []
         },
         {
           "id": "ch7-s2",
@@ -1828,7 +1834,8 @@
             "\\Delta_o = E_{e_g} - E_{t_{2g}}",
             "CFSE = (-0.4n_{t_{2g}} + 0.6n_{e_g})\\Delta_o",
             "t_{2g}^3 e_g^2"
-          ]
+          ],
+          "images": []
         },
         {
           "id": "ch7-s3",
@@ -1851,7 +1858,8 @@
             "t_{2g}^3 e_g^2",
             "t_{2g}^5 e_g^0",
             "CFSE = (-0.4 \\times 3 + 0.6 \\times 2)\\Delta_o = 0"
-          ]
+          ],
+          "images": []
         },
         {
           "id": "ch7-s4",
@@ -1874,7 +1882,8 @@
             "\\lambda = \\frac{hc}{\\Delta_o}",
             "\\Delta_t \\approx \\frac{4}{9}\\Delta_o",
             "\\mu_{so} = \\sqrt{n(n+2)} \\text{ BM}"
-          ]
+          ],
+          "images": []
         }
       ],
       "quizzes": [
@@ -2062,7 +2071,8 @@
             "(NH_4)_2Fe(SO_4)_2 \\cdot 6H_2O",
             "C_2H_5OH",
             "K_3[Fe(CN)_6]"
-          ]
+          ],
+          "images": []
         },
         {
           "id": "ch8-s2",
@@ -2080,7 +2090,8 @@
             "产物保存",
             "实验室安全"
           ],
-          "formulas": []
+          "formulas": [],
+          "images": []
         },
         {
           "id": "ch8-s3",
@@ -2102,7 +2113,8 @@
           "formulas": [
             "Fe^{3+} + 3OH^- \\rightarrow Fe(OH)_3 \\downarrow",
             "CN^- + ClO^- \\xrightarrow{pH>10} CNO^- + Cl^-"
-          ]
+          ],
+          "images": []
         },
         {
           "id": "ch8-s4",
@@ -2121,7 +2133,8 @@
             "事故报告",
             "疏散"
           ],
-          "formulas": []
+          "formulas": [],
+          "images": []
         }
       ],
       "quizzes": [
@@ -2279,7 +2292,8 @@
           ],
           "formulas": [
             "E°_{cell} = E°_{氧化剂} - E°_{还原剂}"
-          ]
+          ],
+          "images": []
         },
         {
           "id": "ch9-s2",
@@ -2296,7 +2310,8 @@
             "对比实验",
             "产率提高"
           ],
-          "formulas": []
+          "formulas": [],
+          "images": []
         },
         {
           "id": "ch9-s3",
@@ -2313,7 +2328,8 @@
             "原料品质",
             "操作细节"
           ],
-          "formulas": []
+          "formulas": [],
+          "images": []
         }
       ],
       "quizzes": [
@@ -2468,7 +2484,7 @@
               "caption": "二草酸合铜(II)酸钾结构"
             },
             {
-              "file": "层析柱1.png",
+              "file": "层析柱.png",
               "caption": "层析柱装置"
             }
           ]
@@ -2494,7 +2510,8 @@
             "Fe_4[Fe(CN)_6]_3 \\cdot xH_2O",
             "3Fe^{2+} + 2[Fe(CN)_6]^{3-} \\rightarrow Fe_3[Fe(CN)_6]_2 \\downarrow",
             "Fe^{II} - N \\equiv C - Fe^{II} - C \\equiv N - Fe^{III}"
-          ]
+          ],
+          "images": []
         },
         {
           "id": "ch10-s3",
@@ -2517,7 +2534,8 @@
             "4Au + 8CN^- + O_2 + 2H_2O \\rightarrow 4[Au(CN)_2]^- + 4OH^-",
             "cis-[Pt(NH_3)_2Cl_2]",
             "C_2H_4 + \\frac{1}{2}O_2 \\xrightarrow{PdCl_2/CuCl_2} CH_3CHO"
-          ]
+          ],
+          "images": []
         }
       ],
       "quizzes": [
@@ -2693,7 +2711,8 @@
             "Fe^{3+} + 3H_2O \\rightleftharpoons Fe(OH)_3 + 3H^+",
             "2H_2O_2 \\rightarrow 2H_2O + O_2\\uparrow",
             "2[Fe(C_2O_4)_3]^{3-} \\xrightarrow{h\\nu} 2FeC_2O_4 + 3C_2O_4^{2-} + 2CO_2\\uparrow"
-          ]
+          ],
+          "images": []
         },
         {
           "id": "ch12-s2",
@@ -2711,7 +2730,8 @@
             "结晶速度",
             "杂质"
           ],
-          "formulas": []
+          "formulas": [],
+          "images": []
         },
         {
           "id": "ch12-s3",
@@ -2731,7 +2751,8 @@
           ],
           "formulas": [
             "\\Delta E = h\\nu = \\frac{hc}{\\lambda} = \\Delta_o"
-          ]
+          ],
+          "images": []
         },
         {
           "id": "ch12-s4",
@@ -2748,7 +2769,8 @@
             "应急处理",
             "安全"
           ],
-          "formulas": []
+          "formulas": [],
+          "images": []
         },
         {
           "id": "ch12-s5",
@@ -2769,7 +2791,8 @@
           ],
           "formulas": [
             "2H_2O_2 \\rightarrow 2H_2O + O_2\\uparrow"
-          ]
+          ],
+          "images": []
         }
       ],
       "quizzes": [

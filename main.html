@@ -264,6 +264,7 @@ code{font-family:"JetBrains Mono",Consolas,monospace;background:rgba(96,165,250,
 .sec-figs figure{margin:0;background:rgba(148,163,184,.06);border:1px solid var(--bd);border-radius:10px;overflow:hidden}
 .sec-figs img{width:100%;display:block;height:auto;background:#fff}
 .sec-figs figcaption{font-size:12px;color:var(--t3);padding:8px 12px;line-height:1.5}
+.sec-figs .fig-big{grid-column:1/-1}
 .sec-meta{
   display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-top:12px;
   font-size:12px;color:var(--t3);line-height:1.6;
@@ -639,7 +640,7 @@ function renderManual(data){
       h+='<div class="sec-body">'+renderMd(s.content)+"</div>";
       if(s.images&&s.images.length){
         h+='<div class="sec-figs">'+s.images.map(function(img){
-          return '<figure><img src="'+encodeURI('assets/images/'+img.file)+'?v=2" alt="'+esc(img.caption||'')+'"><figcaption>'+esc(img.caption||'')+'</figcaption></figure>';
+          return '<figure class="'+(img.big?'fig-big':'')+'"><img src="'+encodeURI('assets/images/'+img.file)+'?v=2" alt="'+esc(img.caption||'')+'"><figcaption>'+esc(img.caption||'')+'</figcaption></figure>';
         }).join("")+'</div>';
       }
       var cc=CONF_COLOR[s.confidence]||"#94a3b8";

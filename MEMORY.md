@@ -3,3 +3,4 @@
 - [CHANGELOG_v37.6.md](CHANGELOG_v37.6.md) — v37.6 优化日志（双库合并 847 条 + assistant.html 动态加载 + \bullet 修复）
 - [CHANGELOG_v37.6.3.md](CHANGELOG_v37.6.3.md) — v37.6.3 更新日志（图片去重命名统一 + 图注底部对齐 + 日间模式表格修复）
 - [CHANGELOG_v37.6.4.md](CHANGELOG_v37.6.4.md) — v37.6.4 更新日志（仓库地址/章节ID一致性修复 + ch12残留清理）
+- [CHANGELOG_v37.6_综合.md](CHANGELOG_v37.6_综合.md) — v37.6 综合更新日志（本次会话全量：数据整合/实验图片/排版主题/工程卫生）

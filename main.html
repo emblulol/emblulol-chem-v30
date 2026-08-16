@@ -12,6 +12,20 @@
   --bd:rgba(148,163,184,.08);--bd2:rgba(148,163,184,.15);
   --r:16px;
 }
+/* ===== 日间模式（跟随系统浅色主题）===== */
+@media (prefers-color-scheme:light){
+  :root{
+    --bg:#f6f8fb;--bg2:#ffffff;--card:#ffffff;--card-hover:#eef2f7;
+    --t1:#0f172a;--t2:#475569;--t3:#5b6b80;
+    --bd:rgba(15,23,42,.08);--bd2:rgba(15,23,42,.14);
+  }
+  body{color:var(--t1)}
+  .navbar{background:rgba(246,248,251,.86)}
+  .sec-body{color:#1f2937}
+  .sec-body strong{color:#0f172a}
+  .sec-figs figure{background:rgba(15,23,42,.03)}
+  .sec-figs img{background:#eef2f7}
+}
 *{margin:0;padding:0;box-sizing:border-box}
 html{scroll-behavior:smooth}
 body{
@@ -229,7 +243,7 @@ code{font-family:"JetBrains Mono",Consolas,monospace;background:rgba(96,165,250,
 .sec-body li::marker{color:var(--emerald);font-weight:700}
 .fx{
   font-style:normal;color:#6ee7b7;font-weight:500;
-  font-family:"Cambria Math","Times New Roman",Georgia,serif;letter-spacing:.2px;
+  font-family:"Times New Roman",Georgia,serif;letter-spacing:.2px;
 }
 .fx sub,.fx sup{font-style:normal;font-size:.72em}
 .fx-block{
@@ -625,7 +639,7 @@ function renderManual(data){
       h+='<div class="sec-body">'+renderMd(s.content)+"</div>";
       if(s.images&&s.images.length){
         h+='<div class="sec-figs">'+s.images.map(function(img){
-          return '<figure><img src="'+encodeURI('assets/images/'+img.file)+'" alt="'+esc(img.caption||'')+'" loading="lazy"><figcaption>'+esc(img.caption||'')+'</figcaption></figure>';
+          return '<figure><img src="'+encodeURI('assets/images/'+img.file)+'?v=2" alt="'+esc(img.caption||'')+'"><figcaption>'+esc(img.caption||'')+'</figcaption></figure>';
         }).join("")+'</div>';
       }
       var cc=CONF_COLOR[s.confidence]||"#94a3b8";

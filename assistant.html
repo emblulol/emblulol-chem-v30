@@ -120,7 +120,7 @@ a:hover{color:var(--em)}
 .ans-eq-block.ppt{border-left-color:var(--yellow)}
 .ans-eq-block.oxi{border-left-color:var(--blue)}
 .ans-eq-block.crd{border-left-color:var(--em)}
-.ans-inline-math{font-family:"Cambria Math","Latin Modern Math",ui-monospace,serif;font-style:normal;color:var(--teal)}
+.ans-inline-math{font-family:"Times New Roman",Georgia,serif;font-style:normal;color:var(--teal)}
 .ans-sub{font-size:.82em;vertical-align:sub;line-height:0}
 .ans-sup{font-size:.82em;vertical-align:super;line-height:0}
 /* 答案头卡 */
@@ -858,7 +858,7 @@ function imagesHTML(imgs){
   if(!imgs||!imgs.length) return '';
   return '<div class="ans-sec"><h4>📷 相关实验图片</h4><div class="img-grid">'
     + imgs.map(function(im){
-        return '<figure class="img-card"><img src="'+encodeURI(im.file)+'" alt="'+esc(im.caption||'')+'" loading="lazy"><figcaption>'+esc(im.caption||'')+'</figcaption></figure>';
+        return '<figure class="img-card"><img src="'+encodeURI(im.file)+'?v=2" alt="'+esc(im.caption||'')+'"><figcaption>'+esc(im.caption||'')+'</figcaption></figure>';
       }).join('')
     + '</div></div>';
 }

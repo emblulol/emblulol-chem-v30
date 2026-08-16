@@ -2788,8 +2788,8 @@
       ],
       "quizzes": [
         {
-          "id": "q12-1",
-          "chapterId": "ch12",
+          "id": "q11-1",
+          "chapterId": "ch11",
           "type": "single",
           "question": "产率低于45%最可能的原因是？",
           "options": [
@@ -2803,8 +2803,8 @@
           "difficulty": "easy"
         },
         {
-          "id": "q12-2",
-          "chapterId": "ch12",
+          "id": "q11-2",
+          "chapterId": "ch11",
           "type": "single",
           "question": "K₃Fe(CN)₆检验呈蓝色说明？",
           "options": [
@@ -2818,8 +2818,8 @@
           "difficulty": "easy"
         },
         {
-          "id": "q12-3",
-          "chapterId": "ch12",
+          "id": "q11-3",
+          "chapterId": "ch11",
           "type": "single",
           "question": "产物呈棕黄色的原因是？",
           "options": [
@@ -2833,8 +2833,8 @@
           "difficulty": "easy"
         },
         {
-          "id": "q12-4",
-          "chapterId": "ch12",
+          "id": "q11-4",
+          "chapterId": "ch11",
           "type": "single",
           "question": "H₂O₂溶液中有大量气泡说明？",
           "options": [
@@ -2848,8 +2848,8 @@
           "difficulty": "easy"
         },
         {
-          "id": "q12-5",
-          "chapterId": "ch12",
+          "id": "q11-5",
+          "chapterId": "ch11",
           "type": "multiple",
           "question": "产率过高的可能原因包括？",
           "options": [
@@ -2863,8 +2863,8 @@
           "difficulty": "medium"
         },
         {
-          "id": "q12-6",
-          "chapterId": "ch12",
+          "id": "q11-6",
+          "chapterId": "ch11",
           "type": "single",
           "question": "摩尔盐呈黄色说明？",
           "options": [
@@ -2878,8 +2878,8 @@
           "difficulty": "easy"
         },
         {
-          "id": "q12-7",
-          "chapterId": "ch12",
+          "id": "q11-7",
+          "chapterId": "ch11",
           "type": "single",
           "question": "电子天平读数不稳定，首先应检查？",
           "options": [
@@ -2893,8 +2893,8 @@
           "difficulty": "easy"
         },
         {
-          "id": "q12-8",
-          "chapterId": "ch12",
+          "id": "q11-8",
+          "chapterId": "ch11",
           "type": "essay",
           "question": "设计一个系统的故障排查方案：当产率低于50%时，如何逐步排查原因？",
           "answer": "见教材",
@@ -2902,8 +2902,8 @@
           "difficulty": "hard"
         },
         {
-          "id": "q12-9",
-          "chapterId": "ch12",
+          "id": "q11-9",
+          "chapterId": "ch11",
           "type": "single",
           "question": "水浴锅漏水的应急处理不包括？",
           "options": [
@@ -2917,8 +2917,8 @@
           "difficulty": "easy"
         },
         {
-          "id": "q12-10",
-          "chapterId": "ch12",
+          "id": "q11-10",
+          "chapterId": "ch11",
           "type": "fill",
           "question": "草酸钾潮解后应在____℃烘干后使用。",
           "answer": "110",

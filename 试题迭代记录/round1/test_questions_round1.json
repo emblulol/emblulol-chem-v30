@@ -3077,7 +3077,7 @@
     },
     {
       "id": "r1-191",
-      "chapter": "ch12",
+      "chapter": "ch11",
       "type": "single",
       "difficulty": "easy",
       "topic": "K₃[Fe(CN)₆]检验",
@@ -3095,7 +3095,7 @@
     },
     {
       "id": "r1-192",
-      "chapter": "ch12",
+      "chapter": "ch11",
       "type": "single",
       "difficulty": "easy",
       "topic": "产率异常判断",
@@ -3113,7 +3113,7 @@
     },
     {
       "id": "r1-193",
-      "chapter": "ch12",
+      "chapter": "ch11",
       "type": "multiple",
       "difficulty": "medium",
       "topic": "产物颜色诊断",
@@ -3131,7 +3131,7 @@
     },
     {
       "id": "r1-194",
-      "chapter": "ch12",
+      "chapter": "ch11",
       "type": "truefalse",
       "difficulty": "hard",
       "topic": "草酸LD50",
@@ -3143,7 +3143,7 @@
     },
     {
       "id": "r1-195",
-      "chapter": "ch12",
+      "chapter": "ch11",
       "type": "single",
       "difficulty": "hard",
       "topic": "H₂O₂分解判断",
@@ -3161,7 +3161,7 @@
     },
     {
       "id": "r1-196",
-      "chapter": "ch12",
+      "chapter": "ch11",
       "type": "fill",
       "difficulty": "medium",
       "topic": "草酸钾潮解处理",
@@ -3173,7 +3173,7 @@
     },
     {
       "id": "r1-197",
-      "chapter": "ch12",
+      "chapter": "ch11",
       "type": "short",
       "difficulty": "medium",
       "topic": "产率异常系统排查",
@@ -3185,7 +3185,7 @@
     },
     {
       "id": "r1-198",
-      "chapter": "ch12",
+      "chapter": "ch11",
       "type": "single",
       "difficulty": "medium",
       "topic": "电子天平故障",
@@ -3203,7 +3203,7 @@
     },
     {
       "id": "r1-199",
-      "chapter": "ch12",
+      "chapter": "ch11",
       "type": "calculation",
       "difficulty": "medium",
       "topic": "产率故障定量分析",
@@ -3215,7 +3215,7 @@
     },
     {
       "id": "r1-200",
-      "chapter": "ch12",
+      "chapter": "ch11",
       "type": "truefalse",
       "difficulty": "medium",
       "topic": "晶体质量诊断",

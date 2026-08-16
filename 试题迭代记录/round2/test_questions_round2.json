@@ -2381,7 +2381,7 @@
     },
     {
       "id": "r2-183",
-      "chapter": "ch12",
+      "chapter": "ch11",
       "type": "short",
       "difficulty": "easy",
       "topic": "产率异常",
@@ -2393,7 +2393,7 @@
     },
     {
       "id": "r2-184",
-      "chapter": "ch12",
+      "chapter": "ch11",
       "type": "fill",
       "difficulty": "easy",
       "topic": "颜色诊断-黄绿",
@@ -2405,7 +2405,7 @@
     },
     {
       "id": "r2-185",
-      "chapter": "ch12",
+      "chapter": "ch11",
       "type": "fill",
       "difficulty": "easy",
       "topic": "颜色诊断-棕黄",
@@ -2417,7 +2417,7 @@
     },
     {
       "id": "r2-186",
-      "chapter": "ch12",
+      "chapter": "ch11",
       "type": "short",
       "difficulty": "medium",
       "topic": "颜色流程图",
@@ -2429,7 +2429,7 @@
     },
     {
       "id": "r2-187",
-      "chapter": "ch12",
+      "chapter": "ch11",
       "type": "single",
       "difficulty": "medium",
       "topic": "水浴故障",
@@ -2447,7 +2447,7 @@
     },
     {
       "id": "r2-188",
-      "chapter": "ch12",
+      "chapter": "ch11",
       "type": "short",
       "difficulty": "medium",
       "topic": "天平故障",
@@ -2459,7 +2459,7 @@
     },
     {
       "id": "r2-189",
-      "chapter": "ch12",
+      "chapter": "ch11",
       "type": "short",
       "difficulty": "medium",
       "topic": "抽滤故障",
@@ -2471,7 +2471,7 @@
     },
     {
       "id": "r2-190",
-      "chapter": "ch12",
+      "chapter": "ch11",
       "type": "short",
       "difficulty": "hard",
       "topic": "莫尔盐变质",
@@ -2483,7 +2483,7 @@
     },
     {
       "id": "r2-191",
-      "chapter": "ch12",
+      "chapter": "ch11",
       "type": "truefalse",
       "difficulty": "hard",
       "topic": "H2O2变质判断",
@@ -2499,7 +2499,7 @@
     },
     {
       "id": "r2-192",
-      "chapter": "ch12",
+      "chapter": "ch11",
       "type": "short",
       "difficulty": "hard",
       "topic": "K2C2O4吸潮",
@@ -2511,7 +2511,7 @@
     },
     {
       "id": "r2-193",
-      "chapter": "ch12",
+      "chapter": "ch11",
       "type": "fill",
       "difficulty": "hard",
       "topic": "草酸变质",
@@ -2523,7 +2523,7 @@
     },
     {
       "id": "r2-194",
-      "chapter": "ch12",
+      "chapter": "ch11",
       "type": "calculation",
       "difficulty": "medium",
       "topic": "产率异常分析",
@@ -2535,7 +2535,7 @@
     },
     {
       "id": "r2-195",
-      "chapter": "ch12",
+      "chapter": "ch11",
       "type": "short",
       "difficulty": "medium",
       "topic": "综合故障排查",
@@ -2603,7 +2603,7 @@
     },
     {
       "id": "r2-200",
-      "chapter": "ch12",
+      "chapter": "ch11",
       "type": "short",
       "difficulty": "medium",
       "topic": "实验总结",

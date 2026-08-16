@@ -67,7 +67,7 @@
     "valid": true,
     "issue": "",
     "correction": "",
-    "manualSection": "第4章 操作步骤完全指南 - ch4-s4 产率计算方法（含公式推导）；第12章 常见实验故障排查 - ch12-s1 产率异常的12种原因及对策"
+    "manualSection": "第4章 操作步骤完全指南 - ch4-s4 产率计算方法（含公式推导）；第11章 常见实验故障排查 - ch11-s1 产率异常的12种原因及对策"
   },
   {
     "question": "三草酸合铁(III)酸钾的制备过程中，第一步生成草酸亚铁沉淀时，为什么要将两种反应液分别加热至近沸后再混合？",
@@ -137,7 +137,7 @@
     "valid": true,
     "issue": "",
     "correction": "",
-    "manualSection": "ch12-s1 产率异常的12种原因及对策"
+    "manualSection": "ch11-s1 产率异常的12种原因及对策"
   },
   {
     "question": "在三草酸合铁(III)酸钾的制备中，第一步生成FeC₂O₄·2H₂O沉淀时，为什么要在微沸条件下保持约4分钟？从热力学和动力学角度分析。",
@@ -200,7 +200,7 @@
     "valid": true,
     "issue": "",
     "correction": "",
-    "manualSection": "第12章 常见实验故障排查 - ch12-s1 产率异常的12种原因及对策；第9章 教学反思与改进 - ch9-s3 产率优化策略"
+    "manualSection": "第11章 常见实验故障排查 - ch11-s1 产率异常的12种原因及对策；第9章 教学反思与改进 - ch9-s3 产率优化策略"
   },
   {
     "question": "三草酸合铁(III)酸钾的稳定常数较大（lgβ₃约20），请从配位结构角度解释其高稳定性的来源，并说明酸度对其稳定性的影响。",
@@ -263,7 +263,7 @@
     "valid": true,
     "issue": "",
     "correction": "",
-    "manualSection": "ch12-s1 产率异常的12种原因及对策"
+    "manualSection": "ch11-s1 产率异常的12种原因及对策"
   },
   {
     "question": "在制备三草酸合铁(III)酸钾的过程中，第二步氧化反应完成后为什么要加热至沸并保持2分钟？",
@@ -333,7 +333,7 @@
     "valid": true,
     "issue": "",
     "correction": "",
-    "manualSection": "第12章 常见实验故障排查 - ch12-s1 产率异常的12种原因及对策"
+    "manualSection": "第11章 常见实验故障排查 - ch11-s1 产率异常的12种原因及对策"
   },
   {
     "question": "实验报告中，若称取硫酸亚铁铵5.02 g，理论产量计算为2.85 g，实际得到2.41 g，请计算产率并报告相对误差（保留三位有效数字）。",
@@ -389,7 +389,7 @@
     "valid": true,
     "issue": "",
     "correction": "",
-    "manualSection": "ch12-s1"
+    "manualSection": "ch11-s1"
   },
   {
     "question": "在实验报告中，计算产率时需要用到理论产量。若称取5.0 g硫酸亚铁铵（(NH₄)₂Fe(SO₄)₂·6H₂O，M=392.14 g/mol）为起始原料，理论上可生成多少克三草酸合铁(III)酸钾（K₃[Fe(C₂O₄)₃]·3H₂O，M=491.25 g/mol）？写出计算过程。",
@@ -543,14 +543,14 @@
     "valid": true,
     "issue": "",
     "correction": "",
-    "manualSection": "ch4-s4, ch12-s1"
+    "manualSection": "ch4-s4, ch11-s1"
   },
   {
     "question": "在实验过程中，如果发现最终晶体颜色异常（如偏黄或偏绿），请给出诊断流程和可能原因。",
     "valid": true,
     "issue": "",
     "correction": "",
-    "manualSection": "ch12-s3"
+    "manualSection": "ch11-s3"
   },
   {
     "question": "实验报告中，若三次平行实验的产率分别为82.5%、85.0%、84.0%，请计算平均产率、绝对误差和相对误差（理论产率为5.0 g），并说明有效数字的保留规则。",
@@ -620,7 +620,7 @@
     "valid": true,
     "issue": "",
     "correction": "",
-    "manualSection": "ch12-s1 产率异常的12种原因及对策"
+    "manualSection": "ch11-s1 产率异常的12种原因及对策"
   },
   {
     "question": "在蓝晒法应用中，三草酸合铁(III)酸钾作为光敏材料的作用机理是什么？请简述其应用流程。",
@@ -690,7 +690,7 @@
     "valid": true,
     "issue": "",
     "correction": "",
-    "manualSection": "ch9-s3, ch12-s1"
+    "manualSection": "ch9-s3, ch11-s1"
   },
   {
     "question": "在实验报告中，若三次平行实验测得产率分别为82.3%、85.6%、84.1%，请计算平均产率、绝对误差（以平均值为基准）和相对平均偏差，并说明有效数字的保留规则。",
@@ -746,7 +746,7 @@
     "valid": true,
     "issue": "",
     "correction": "",
-    "manualSection": "第12章 常见实验故障排查 - 12.1 产率异常的12种原因及对策"
+    "manualSection": "第11章 常见实验故障排查 - 12.1 产率异常的12种原因及对策"
   },
   {
     "question": "在实验报告中，若三次平行实验产率分别为72.5%、75.3%、74.1%，请计算平均产率、绝对误差和相对平均偏差。",
@@ -900,7 +900,7 @@
     "valid": true,
     "issue": "",
     "correction": "",
-    "manualSection": "ch12-s1 产率异常的12种原因及对策；ch9-s3 产率优化策略"
+    "manualSection": "ch11-s1 产率异常的12种原因及对策；ch9-s3 产率优化策略"
   },
   {
     "question": "三草酸合铁(III)酸钾在工业或实际应用中有哪些光敏材料方面的用途？请简述其原理。",
@@ -970,7 +970,7 @@
     "valid": true,
     "issue": "",
     "correction": "",
-    "manualSection": "第12章 常见实验故障排查 - ch12-s1 产率异常的12种原因及对策"
+    "manualSection": "第11章 常见实验故障排查 - ch11-s1 产率异常的12种原因及对策"
   },
   {
     "question": "在三草酸合铁(III)酸钾的制备中，废液中含有哪��有害物质？应如何分类处理？",
@@ -1040,7 +1040,7 @@
     "valid": true,
     "issue": "",
     "correction": "",
-    "manualSection": "ch12-s1 产率异常的12种原因及对策"
+    "manualSection": "ch11-s1 产率异常的12种原因及对策"
   },
   {
     "question": "在制备三草酸合铁(III)酸钾的最后一步中，加入乙醇的作用是什么？请从溶剂替换法结晶的热力学原理角度解释。",
@@ -1243,7 +1243,7 @@
     "valid": true,
     "issue": "",
     "correction": "",
-    "manualSection": "ch12-s1 产率异常的12种原因及对策"
+    "manualSection": "ch11-s1 产率异常的12种原因及对策"
   },
   {
     "question": "在三草酸合铁(III)酸钾的制备中，第三步配位反应后为什么要加热至沸并保持2分钟？此操作的目的是什么？",
@@ -1383,7 +1383,7 @@
     "valid": true,
     "issue": "",
     "correction": "",
-    "manualSection": "第12章 常见实验故障排查 - ch12-s1 产率异常的12种原因及对策"
+    "manualSection": "第11章 常见实验故障排查 - ch11-s1 产率异常的12种原因及对策"
   },
   {
     "question": "在实验报告中，若三次平行实验的产率分别为78.5%、82.3%、79.6%，请计算平均产率、绝对误差和相对误差（理论产率为85.0%）。",

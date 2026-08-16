@@ -1013,7 +1013,7 @@
     },
     {
       "id": "r3-085",
-      "chapter": "ch12",
+      "chapter": "ch11",
       "type": "short",
       "difficulty": "medium",
       "topic": "产率偏低原因",
@@ -1025,7 +1025,7 @@
     },
     {
       "id": "r3-086",
-      "chapter": "ch12",
+      "chapter": "ch11",
       "type": "short",
       "difficulty": "medium",
       "topic": "褐沉淀不消失原因",
@@ -1037,7 +1037,7 @@
     },
     {
       "id": "r3-087",
-      "chapter": "ch12",
+      "chapter": "ch11",
       "type": "short",
       "difficulty": "medium",
       "topic": "溶液发黄非翠绿原因",
@@ -1049,7 +1049,7 @@
     },
     {
       "id": "r3-088",
-      "chapter": "ch12",
+      "chapter": "ch11",
       "type": "short",
       "difficulty": "easy",
       "topic": "析晶缓慢原因",
@@ -1061,7 +1061,7 @@
     },
     {
       "id": "r3-089",
-      "chapter": "ch12",
+      "chapter": "ch11",
       "type": "fill",
       "difficulty": "medium",
       "topic": "产率优秀范围",
@@ -1577,7 +1577,7 @@
     },
     {
       "id": "r3-132",
-      "chapter": "ch12",
+      "chapter": "ch11",
       "type": "fill",
       "difficulty": "medium",
       "topic": "产率>100%原因",
@@ -1589,7 +1589,7 @@
     },
     {
       "id": "r3-133",
-      "chapter": "ch12",
+      "chapter": "ch11",
       "type": "short",
       "difficulty": "medium",
       "topic": "晶体发黄原因",
@@ -1601,7 +1601,7 @@
     },
     {
       "id": "r3-134",
-      "chapter": "ch12",
+      "chapter": "ch11",
       "type": "short",
       "difficulty": "hard",
       "topic": "滤液回收处理",
@@ -1829,7 +1829,7 @@
     },
     {
       "id": "r3-153",
-      "chapter": "ch12",
+      "chapter": "ch11",
       "type": "fill",
       "difficulty": "easy",
       "topic": "玻璃仪器清洗",
@@ -2129,7 +2129,7 @@
     },
     {
       "id": "r3-178",
-      "chapter": "ch12",
+      "chapter": "ch11",
       "type": "fill",
       "difficulty": "medium",
       "topic": "K2C2O4潮解处理",

@@ -207,7 +207,7 @@
     "valid": true,
     "issue": "",
     "correction": "",
-    "manualSection": "第12章 常见实验故障排查"
+    "manualSection": "第11章 常见实验故障排查"
   },
   {
     "question": "简述三草酸合铁(III)酸钾的发现历史及其在配位化学发展中的意义。",
@@ -277,7 +277,7 @@
     "valid": false,
     "issue": "原因2不准确，H2O2过量不会导致Fe3+被还原，反而可能氧化草酸根。",
     "correction": "建议修正为：可能原因：1. 第一步沉淀洗涤不彻底，导致Fe2+损失；解决：用热水多次洗涤，检验无SO4^2-。2. 氧化时H2O2过量，导致草酸根被氧化；解决：严格控制H2O2用量，并检验Fe2+是否氧化完全。",
-    "manualSection": "ch12-s1"
+    "manualSection": "ch11-s1"
   },
   {
     "question": "三草酸合铁(III)酸钾的发现历史中，最早由哪位化学家合成？",
@@ -340,7 +340,7 @@
     "valid": true,
     "issue": "",
     "correction": "",
-    "manualSection": "ch12-s1"
+    "manualSection": "ch11-s1"
   },
   {
     "question": "在实验报告中，计算产率时，理论产量如何计算？",
@@ -410,7 +410,7 @@
     "valid": false,
     "issue": "题干中存在乱码字符'���'，影响题意理解。",
     "correction": "修正为：如果实验产率偏低，可能的原因有哪些？请列举至少两种。",
-    "manualSection": "第12章 常见实验故障排查"
+    "manualSection": "第11章 常见实验故障排查"
   },
   {
     "question": "在实验报告中，计算产率时需注意哪些有效数字规则？",
@@ -487,7 +487,7 @@
     "valid": true,
     "issue": "",
     "correction": "",
-    "manualSection": "ch12-s1"
+    "manualSection": "ch11-s1"
   },
   {
     "question": "简述三草酸合铁(III)酸钾的发现历史及其在配位化学发展中的意义。",
@@ -557,7 +557,7 @@
     "valid": true,
     "issue": "",
     "correction": "",
-    "manualSection": "ch12-s1"
+    "manualSection": "ch11-s1"
   },
   {
     "question": "简述三草酸合铁(III)酸钾的发现历史及其在配位化学发展中的意义。",
@@ -697,7 +697,7 @@
     "valid": true,
     "issue": "",
     "correction": "",
-    "manualSection": "ch12-s1"
+    "manualSection": "ch11-s1"
   },
   {
     "question": "简述三草酸合铁(III)酸钾的发现历史及其在配位化学发展中的意义。",
@@ -760,7 +760,7 @@
     "valid": true,
     "issue": "",
     "correction": "",
-    "manualSection": "ch12-s1"
+    "manualSection": "ch11-s1"
   },
   {
     "question": "在实验报告中，计算产率时，如何确定理论产量？请写出计算过程。",
@@ -830,7 +830,7 @@
     "valid": true,
     "issue": "",
     "correction": "",
-    "manualSection": "ch12-s1"
+    "manualSection": "ch11-s1"
   },
   {
     "question": "实验结束后，含铬废液（假设有）应如何处理？请简述废液分类处理原则。",
@@ -907,7 +907,7 @@
     "valid": true,
     "issue": "",
     "correction": "",
-    "manualSection": "ch12-s3"
+    "manualSection": "ch11-s3"
   },
   {
     "question": "简述三草酸合铁(III)酸钾的发现历史及其在配位化学发展中的意义。",
@@ -970,7 +970,7 @@
     "valid": true,
     "issue": "",
     "correction": "",
-    "manualSection": "ch12-s1, ch9-s3"
+    "manualSection": "ch11-s1, ch9-s3"
   },
   {
     "question": "在实验报告中，计算产率时，如何确定理论产量？请写出计算公式。",
@@ -1040,7 +1040,7 @@
     "valid": true,
     "issue": "",
     "correction": "",
-    "manualSection": "ch9-s3, ch12-s1"
+    "manualSection": "ch9-s3, ch11-s1"
   },
   {
     "question": "在实验报告中，计算产率时，如何确定理论产量？请写出计算过程。",
@@ -1117,7 +1117,7 @@
     "valid": true,
     "issue": "",
     "correction": "",
-    "manualSection": "ch12-s1, ch9-s3"
+    "manualSection": "ch11-s1, ch9-s3"
   },
   {
     "question": "三草酸合铁(III)酸钾的化学式是什么？它是由谁首次合成的？",
@@ -1327,7 +1327,7 @@
     "valid": true,
     "issue": "",
     "correction": "",
-    "manualSection": "第12章 常见实验��障排查"
+    "manualSection": "第11章 常见实验��障排查"
   },
   {
     "question": "简述三草酸合铁(III)酸钾的发现历史及其在配位化学发展中的意义。",
@@ -1397,7 +1397,7 @@
     "valid": true,
     "issue": "",
     "correction": "",
-    "manualSection": "ch12-s1"
+    "manualSection": "ch11-s1"
   },
   {
     "question": "简述三草酸合铁(III)酸钾的发现历史及其在配位化学发展中的意义。",
@@ -1460,7 +1460,7 @@
     "valid": true,
     "issue": "",
     "correction": "",
-    "manualSection": "第12章 常见实验故障排查 (ch12-s1)"
+    "manualSection": "第11章 常见实验故障排查 (ch11-s1)"
   },
   {
     "question": "在实验报告��，计算产率时需注意有效数字。若理论产量为2.50 g，实际产量为2.3 g，请计算相对误差，并说明有效数字的保留规则。",
@@ -1530,14 +1530,14 @@
     "valid": true,
     "issue": "",
     "correction": "",
-    "manualSection": "ch4-s4, ch9-s3, ch12-s1"
+    "manualSection": "ch4-s4, ch9-s3, ch11-s1"
   },
   {
     "question": "在制备过程中，如果最终产品颜色偏黄，可能的原因是什么？如何诊断？",
     "valid": true,
     "issue": "",
     "correction": "",
-    "manualSection": "ch12-s3"
+    "manualSection": "ch11-s3"
   },
   {
     "question": "三草酸合铁(III)酸钾的化学式是什么？它是在什么历史背景下被首次合成的？",
@@ -1740,7 +1740,7 @@
     "valid": true,
     "issue": "",
     "correction": "",
-    "manualSection": "第12章 常见实验故障排查 (ch12-s1)"
+    "manualSection": "第11章 常见实验故障排查 (ch11-s1)"
   },
   {
     "question": "在实验报告中，计算产率时，如何确定理论产量？请写出计算步骤。",
@@ -1887,7 +1887,7 @@
     "valid": true,
     "issue": "",
     "correction": "",
-    "manualSection": "ch12-s1"
+    "manualSection": "ch11-s1"
   },
   {
     "question": "三草酸合铁(III)酸钾的发现历史中，最早由哪位科学家合成？",
@@ -2027,7 +2027,7 @@
     "valid": true,
     "issue": "",
     "correction": "",
-    "manualSection": "ch12-s1"
+    "manualSection": "ch11-s1"
   },
   {
     "question": "三草酸合铁(III)酸钾的发现历史中，哪位科学家最早合成了该化合物？",
@@ -2230,7 +2230,7 @@
     "valid": true,
     "issue": "",
     "correction": "",
-    "manualSection": "第12章 常见实验故障排查"
+    "manualSection": "第11章 常见实验故障排查"
   },
   {
     "question": "在实验报告中，计算产率时，理论产量如何计算？请写出计算步骤。",
@@ -2300,7 +2300,7 @@
     "valid": true,
     "issue": "",
     "correction": "",
-    "manualSection": "第12章 常见实验故障排查"
+    "manualSection": "第11章 常见实验故障排查"
   },
   {
     "question": "在实验报告中，计算产率时，若实际产量为4.2 g，理论产量为5.0 g，请计算相对��差（保留两位小数）。",
@@ -2517,7 +2517,7 @@
     "valid": true,
     "issue": "",
     "correction": "",
-    "manualSection": "ch4-s4, ch12-s1"
+    "manualSection": "ch4-s4, ch11-s1"
   },
   {
     "question": "简述三草酸合铁(III)酸钾的发现历史及其在配位化学发展中的意义。",
@@ -2657,7 +2657,7 @@
     "valid": true,
     "issue": "",
     "correction": "",
-    "manualSection": "ch12-s1"
+    "manualSection": "ch11-s1"
   },
   {
     "question": "三草酸合铁(III)酸钾的化学式是什么？它属于哪一类化合物？",
@@ -2790,7 +2790,7 @@
     "valid": true,
     "issue": "",
     "correction": "",
-    "manualSection": "ch12-s1"
+    "manualSection": "ch11-s1"
   },
   {
     "question": "在实验报告中，计算产率时，理论产量如何计算？",

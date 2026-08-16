@@ -822,7 +822,7 @@ async function loadFAQ(){
 let IMG_INDEX=[];
 async function loadImages(){
   try{
-    const res=await fetch('data/images.json',{cache:'default'});
+    const res=await fetch('data/images.json',{cache:'no-store'});
     if(!res.ok) throw new Error('HTTP '+res.status);
     const data=await res.json();
     if(Array.isArray(data)) IMG_INDEX=data;

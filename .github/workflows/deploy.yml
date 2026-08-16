@@ -30,7 +30,6 @@ jobs:
           mkdir -p _site
           cp index.html main.html assistant.html knowledge.html prep.html corpus.html _site/
           cp -r assets data _site/
-          cp -r 实验图片说明 _site/
           touch _site/.nojekyll
 
       - name: Setup Pages

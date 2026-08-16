@@ -625,7 +625,7 @@ function renderManual(data){
       h+='<div class="sec-body">'+renderMd(s.content)+"</div>";
       if(s.images&&s.images.length){
         h+='<div class="sec-figs">'+s.images.map(function(img){
-          return '<figure><img src="'+encodeURI('实验图片说明/'+img.file)+'" alt="'+esc(img.caption||'')+'" loading="lazy"><figcaption>'+esc(img.caption||'')+'</figcaption></figure>';
+          return '<figure><img src="'+encodeURI('assets/images/'+img.file)+'" alt="'+esc(img.caption||'')+'" loading="lazy"><figcaption>'+esc(img.caption||'')+'</figcaption></figure>';
         }).join("")+'</div>';
       }
       var cc=CONF_COLOR[s.confidence]||"#94a3b8";
